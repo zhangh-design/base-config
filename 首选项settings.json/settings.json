@@ -1,0 +1,21 @@
+{
+	//指定eslint.nodePath不然使用npm init -y创建的项目使用extends: standard的话VScode无法进行语法高亮展示
+	//vue-frame是用vue cli脚手架创建的一个启用eslint的项目
+    "eslint.nodePath": "F:\\github\\vue-frame\\node_modules",
+    "eslint.enable": true,
+	//保存文件时自动修复一些eslint的语法例如：多写了一个空格
+    "eslint.autoFixOnSave": true,
+	//下面两个都设置为false，不然会和上面的autoFixOnSave冲突
+    "editor.formatOnSave": false,
+    "editor.formatOnType": false,
+    "editor.tabSize": 2,
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        "vue",
+        {
+            "language": "vue",
+            "autoFix": true
+        }
+    ]
+}
