@@ -1,0 +1,1 @@
+针对VsCode对eslint如果设置为 extends: ['standard'] 无法进行语法高亮的特殊说明
