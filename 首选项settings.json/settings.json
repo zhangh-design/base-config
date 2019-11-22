@@ -1,11 +1,12 @@
 {
-	//Ö¸¶¨eslint.nodePath²»È»Ê¹ÓÃnpm init -y´´½¨µÄÏîÄ¿Ê¹ÓÃextends: standardµÄ»°VScodeÎŞ·¨½øĞĞÓï·¨¸ßÁÁÕ¹Ê¾
-	//vue-frameÊÇÓÃvue cli½ÅÊÖ¼Ü´´½¨µÄÒ»¸öÆôÓÃeslintµÄÏîÄ¿
-    "eslint.nodePath": "F:\\github\\vue-frame\\node_modules",
+    // æŒ‡å®šeslint.nodePathä¸ç„¶ä½¿ç”¨npm init -yåˆ›å»ºçš„é¡¹ç›®ä½¿ç”¨extends: standardçš„è¯VScodeæ— æ³•è¿›è¡Œè¯­æ³•é«˜äº®å±•ç¤º
+    // vue-frameæ˜¯ç”¨vue cliè„šæ‰‹æ¶åˆ›å»ºçš„ä¸€ä¸ªå¯ç”¨eslintçš„é¡¹ç›®
+    // "eslint.nodePath": "F:\\github\\vue-frame\\node_modules",
+    // å…³é—­ç¼–è¾‘å™¨è‡ªå¸¦çš„ js æ£€æŸ¥ï¼Œå»ºè®®å…³é—­ å¯ä»¥å…³é—­é…ç½®äº†jsconfig.js æ—¶tsçš„é”™è¯¯æç¤º
+    "javascript.validate.enable": true,
     "eslint.enable": true,
-	//±£´æÎÄ¼şÊ±×Ô¶¯ĞŞ¸´Ò»Ğ©eslintµÄÓï·¨ÀıÈç£º¶àĞ´ÁËÒ»¸ö¿Õ¸ñ
+    // ä¿å­˜æ–‡ä»¶æ—¶è‡ªåŠ¨ä¿®å¤ä¸€äº›eslintçš„è¯­æ³•ä¾‹å¦‚ï¼šå¤šå†™äº†ä¸€ä¸ªç©ºæ ¼
     "eslint.autoFixOnSave": true,
-	//ÏÂÃæÁ½¸ö¶¼ÉèÖÃÎªfalse£¬²»È»»áºÍÉÏÃæµÄautoFixOnSave³åÍ»
     "editor.formatOnSave": false,
     "editor.formatOnType": false,
     "editor.tabSize": 2,
