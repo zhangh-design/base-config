@@ -1,5 +1,8 @@
 ## 针对VsCode对eslint如果设置为 extends: ['standard'] 无法进行语法高亮的特殊说明
 
-我们使用 `npm init -y` 创建一个工程之后会想到安装 `eslint` 来进行代码规范，我们这里使用的是 `eslint-config-standard` 代码风格指南这里有一点需要特殊说明：`eslint`的相关依赖包和`eslint-config-standard`必须是配套的，然后.eslintrc.js中配置 extends: 'standard' vscode就可以语法高亮了这里有一点需要注意的是如果只是使用 `npm run lint` 命令来检查语法的话是可以不用我下面提供的依赖包配套的。
+我们使用 `npm init -y` 创建一个工程之后会想到安装 `eslint` 来进行代码规范，
+我们这里使用的是 `eslint-config-standard` 代码风格指南这里有一点需要特殊说明：
+`eslint`的相关依赖包和`eslint-config-standard`必须是配套的，然后.eslintrc.js中配置 extends: 'standard' 
+vscode就可以语法高亮了这里有一点需要注意的是如果只是使用 `npm run lint` 命令来检查语法的话是可以不用我下面提供的依赖包配套的。
 
 依赖包eslint在vscode中的依赖包.txt
