@@ -1,6 +1,7 @@
 {
     // 指定eslint.nodePath不然使用npm init -y创建的项目使用extends: standard的话VScode无法进行语法高亮展示
     // vue-frame是用vue cli脚手架创建的一个启用eslint的项目
+    // eslint.nodePath在VsCode编译器中不需要配置，只要把eslint standard 的相关依赖包导入配套即可进行提示
     // "eslint.nodePath": "F:\\github\\vue-frame\\node_modules",
     // 关闭编辑器自带的 js 检查，建议关闭 可以关闭配置了jsconfig.js 时ts的错误提示
     "javascript.validate.enable": true,
