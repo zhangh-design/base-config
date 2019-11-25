@@ -1,3 +1,4 @@
+非 `eslint` 最新依赖相关包，只是一套匹配的相关依赖包可以用于 vscode 语法高亮提示
 "babel-eslint": "^8.2.1",
 "eslint": "^4.15.0",
 "eslint-config-standard": "^10.2.1",
