@@ -12,6 +12,21 @@
     "editor.formatOnType": false,
     "editor.tabSize": 2,
     "eslint.validate": [
-        
+        {
+            "language": "vue",
+            "autoFix": true
+        },
+        {
+            "language": "html",
+            "autoFix": true
+        },
+        {
+            "language": "javascript",
+            "autoFix": true
+        },
+        {
+            "language": "typescript",
+            "autoFix": true
+        }
     ]
 }
