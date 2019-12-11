@@ -60,6 +60,7 @@ module.exports = {
 			})
 		]
 	},
-	devtool: 'source-map'
+	// source-map报错提示只会显示某一行不限那一列，这样可以提高打包速度
+	devtool: 'cheap-source-map'
 }
 
