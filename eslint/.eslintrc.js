@@ -14,6 +14,7 @@ module.exports = {
 	plugins: ['eslint-plugin-html'],
 	// add your custom rules here
 	rules: {
+		'generator-star-spacing': 'off',
 		'semi': "off",
 		'no-debugger': "off",
 		'quotes': ["error", "single"],
