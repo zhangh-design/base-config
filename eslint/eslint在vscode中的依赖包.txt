@@ -1,12 +1,12 @@
 非 `eslint` 最新依赖相关包，只是一套匹配的相关依赖包可以用于 vscode 语法高亮提示
-"babel-eslint": "^8.2.1",
-"eslint": "^4.15.0",
-"eslint-config-standard": "^10.2.1",
-"eslint-friendly-formatter": "^3.0.0",
-"eslint-loader": "^1.7.1",
+eslint-loader、eslint-friendly-formatter两个插件是按照在指定的目录目录中的。
+
+下面的包是安装在项目目录的上一层目录中，或者使用`npx eslint --init`命令但首先我们要先安装eslint的包。
+"babel-eslint": "^10.0.3",
+"eslint": "^6.7.2",
+"eslint-config-standard": "^14.1.0",
 "eslint-plugin-html": "^6.0.0",
-"eslint-plugin-import": "^2.7.0",
-"eslint-plugin-node": "^5.2.0",
-"eslint-plugin-promise": "^3.4.0",
-"eslint-plugin-standard": "^3.0.1",
-"eslint-plugin-vue": "^4.0.0",
+"eslint-plugin-import": "^2.19.1",
+"eslint-plugin-node": "^10.0.0",
+"eslint-plugin-promise": "^4.2.1",
+"eslint-plugin-standard": "^4.0.1"
