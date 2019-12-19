@@ -3,7 +3,7 @@ eslint-loader、eslint-friendly-formatter两个插件是按照在指定的目录
 
 下面的包是安装在项目目录的上一层目录中，或者使用`npx eslint --init`命令但首先我们要先安装eslint的包。
 （上面这种做法是我编写 js的插件包然后使用webpack编译时会这么做，如果是用vue create myProject 的形式则不用这么做直接在创建项目时加入eslint功能然后vscode就可以进行高亮验证）
-（不过我觉得这样是做项目时应该把插件编写工程文件夹和项目开发文件夹分开不要放在一个文件夹中）
+（不过我觉得这样是做项目时应该把插件编写工程文件夹和项目开发文件夹分开不要放在一个文件夹中，然后开多个vscode进行工作）
 "babel-eslint": "^10.0.3",
 "eslint": "^6.7.2",
 "eslint-config-standard": "^14.1.0",
