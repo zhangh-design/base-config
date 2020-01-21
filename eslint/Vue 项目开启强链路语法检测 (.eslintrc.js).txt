@@ -1,0 +1,40 @@
+// 这样开启之后比如：props 中定义的参数就必须要设置类型和默认值、template中的标签如果没有子内容就要写成 <div /> 这样，否则就会有黄色下波浪线提示错误
+
+module.exports = {
+  root: true,
+  env: {
+    node: true
+  },
+  'extends': [
+    //'plugin:vue/essential',
+	// 强链规格 strongly-recommended
+    'plugin:vue/strongly-recommended',
+    '@vue/standard'
+  ],
+  rules: {
+    'generator-star-spacing': 'off',
+	'semi': "off",
+	'no-debugger': "off",
+	'quotes': ["error", "single"],
+	'object-curly-spacing': ["error", "always"],
+	"indent": ["error", 2]
+  },
+  parserOptions: {
+    parser: 'babel-eslint'
+  },
+  overrides: [
+    {
+      files: [
+        '**/__tests__/*.{j,t}s?(x)',
+        '**/tests/unit/**/*.spec.{j,t}s?(x)'
+      ],
+      env: {
+        jest: true
+      }
+    }
+  ],
+  "globals": {
+    "$ns": true,
+    "fastUI": true
+  }
+}
