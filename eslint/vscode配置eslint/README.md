@@ -28,7 +28,7 @@ vue-github
  |-.eslintrc.js 执行`npx eslint --init`自动生成不需要手动创建
  |-package.json
  |-package-lock.json
- 
+
 ```
 
 注意：
@@ -65,35 +65,35 @@ E:\vue-github>npx eslint --init
 
 接下来就是一路选择（我直接上图）：
 
-1. 
-![image](http://m.qpic.cn/psc?/V12UXEll2JjLTU/j5BRZUlgKbUG5yYXn162*TKmN*QS78ekmzOXFFecNWJ2bfMLOhOscsyUjnMORpI633Q06sAUn.Rtu9HVbuU2eg!!/mnull&bo=0wGTAAAAAAARB3E!&rf=photolist&t=5)
+1.
+![image](./1.jpg)
 
-2. 
-![image](http://m.qpic.cn/psc?/V12UXEll2JjLTU/S1G4*2hi*D5aPIJug2nMawuDf3WenmHCQbSddT3BlTBwy.K*eCfG*CiuwKZSHzKvDmjp5KV4qx.Q9c32semZNaXk7lbgFDQ5wo2ntsarWyU!/b&bo=OAKeAAAAAAARF4Q!&rf=viewer_4&t=5)
+2.
+![image](./2.jpg)
 
 3.
-![image](http://m.qpic.cn/psc?/V12UXEll2JjLTU/S1G4*2hi*D5aPIJug2nMa3KNcUQ*fLkCOCBIHAQe47CKsDkta6Li0kaSJO4S*4n76CYe0H32qZWOWe4sKqL1oTyxKd*.FGL5sScrdk06hF0!/b&bo=jQKnAAAAAAARFwg!&rf=viewer_4&t=5)
+![image](./3.jpg)
 
 4.
-![image](http://m.qpic.cn/psc?/V12UXEll2JjLTU/S1G4*2hi*D5aPIJug2nMazIbhlGLdimFJZzbOREOWCPdqtLuD*KxdpbCzOAQib*tthbFOcwrEduxB*3xz4ftxbt7wD2tAsdfXL*h9xX3BSM!/b&bo=iwKhAAAAAAARFwg!&rf=viewer_4&t=5)
+![image](./4.jpg)
 
 5.
-![image](http://m.qpic.cn/psc?/V12UXEll2JjLTU/S1G4*2hi*D5aPIJug2nMa.OYYqOY6xBEDlw0qobRpdeewjY8fACxFMVSYnuZoYrknnFE0nE4djQ12gKmUXm2HjlFIbDHgVHbjQLxM5DSaCg!/b&bo=iwLAAAAAAAARF2k!&rf=viewer_4&t=5)
+![image](./5.jpg)
 
 6.
-![image](http://m.qpic.cn/psc?/V12UXEll2JjLTU/S1G4*2hi*D5aPIJug2nMazDlQpjjgTKgDcc4T0HMpuIoMdCt3QXgf7cRPrrmHck1.8PHOpLNMaB9kqH9AcsKPmnOZNSliaKSovCGXAqm0Vs!/b&bo=lALcAAAAAAARF2o!&rf=viewer_4&t=5)
+![image](./6.jpg)
 
 7.
-![image](http://m.qpic.cn/psc?/V12UXEll2JjLTU/S1G4*2hi*D5aPIJug2nMa13fY8XJzLTmc9aH8Fq08bhBBqBgTgGvG3BMkdODkApOp*Pyz5vmNOqve2Nb*JG9Pj1aEd3CZsR1yCtNIdst8gk!/b&bo=kQIEAQAAAAARF7Y!&rf=viewer_4&t=5)
+![image](./7.jpg)
 
 8.
-![image](http://m.qpic.cn/psc?/V12UXEll2JjLTU/S1G4*2hi*D5aPIJug2nMayjVrl499BCF8Q.NIhA8Gs*mKYlDVg658gVDP7UFqv6pWsPWkwm3D4WkpacQUjowXm9rsLqzwhZHKMLZmUnJzOc!/b&bo=vAIAAgAAAAARF5w!&rf=viewer_4&t=5)
+![image](./8.jpg)
 
 9.
-![image](http://m.qpic.cn/psc?/V12UXEll2JjLTU/S1G4*2hi*D5aPIJug2nMa8.UDY0v8UeA.4D3znTI64596EMLSFnhDjWTNucwABmeNNxIZ52QsexyX1ulNwE*QEv.I0fxmW2oXt7gndpS*tw!/b&bo=.wDKAAAAAAARFxE!&rf=viewer_4&t=5)
+![image](./9.jpg)
 
 10.
-![image](http://m.qpic.cn/psc?/V12UXEll2JjLTU/S1G4*2hi*D5aPIJug2nMay9QgJkh*vYDGtLn.Fudun4QVx3QE8LbJkw1xNgLTvXP0w*vz4dvVO*99W*x*xsp7Qd0byagHQheS7.QLYkOLD0!/b&bo=wQO1AQAAAAARF1Y!&rf=viewer_4&t=5)
+![image](./10.jpg)
 
 
 设置完这些步骤后你就会在`vue-github`的目录下发现`.eslintrc.js`文件就自动生成了，这样`vscode`中配置`eslint`语法高亮提示就完成了。
