@@ -69,31 +69,31 @@ E:\vue-github>npx eslint --init
 ![image](http://i1.fuimg.com/717460/9b9231d4dd3fd92a.jpg)
 
 2.
-![image](./2.jpg)
+![image](http://i1.fuimg.com/717460/a2ebbdd3d211bf1e.jpg)
 
 3.
-![image](./3.jpg)
+![image](http://i1.fuimg.com/717460/1b0e6cf8b0db8e24.jpg)
 
 4.
-![image](./4.jpg)
+![image](http://i1.fuimg.com/717460/1e48a697892f7645.jpg)
 
 5.
-![image](./5.jpg)
+![image](http://i1.fuimg.com/717460/12b3ceb4713dd20b.jpg)
 
 6.
-![image](./6.jpg)
+![image](http://i1.fuimg.com/717460/d403050fbfe46bfa.jpg)
 
 7.
-![image](./7.jpg)
+![image](http://i1.fuimg.com/717460/b595a6a3213b5074.jpg)
 
 8.
-![image](./8.jpg)
+![image](http://i1.fuimg.com/717460/f770b0a7b4a59831.jpg)
 
 9.
-![image](./9.jpg)
+![image](http://i1.fuimg.com/717460/fed49d5ec293f771.jpg)
 
 10.
-![image](./10.jpg)
+![image](http://i1.fuimg.com/717460/121f2a1d41723dca.jpg)
 
 
 设置完这些步骤后你就会在`vue-github`的目录下发现`.eslintrc.js`文件就自动生成了，这样`vscode`中配置`eslint`语法高亮提示就完成了。
