@@ -66,7 +66,7 @@ E:\vue-github>npx eslint --init
 接下来就是一路选择（我直接上图）：
 
 1.
-![image](./1.jpg)
+![image](https://gitee.com/zhangh-design/base-config/blob/master/eslint/vscode%E9%85%8D%E7%BD%AEeslint/1.jpg)
 
 2.
 ![image](./2.jpg)
