@@ -66,34 +66,34 @@ E:\vue-github>npx eslint --init
 接下来就是一路选择（我直接上图）：
 
 1.
-![image](http://i1.fuimg.com/717460/9b9231d4dd3fd92a.jpg)
+![image](./1.jpg)
 
 2.
-![image](http://i1.fuimg.com/717460/a2ebbdd3d211bf1e.jpg)
+![image](./2.jpg)
 
 3.
-![image](http://i1.fuimg.com/717460/1b0e6cf8b0db8e24.jpg)
+![image](./3.jpg)
 
 4.
-![image](http://i1.fuimg.com/717460/1e48a697892f7645.jpg)
+![image](./4.jpg)
 
 5.
-![image](http://i1.fuimg.com/717460/12b3ceb4713dd20b.jpg)
+![image](./5.jpg)
 
 6.
-![image](http://i1.fuimg.com/717460/d403050fbfe46bfa.jpg)
+![image](./6.jpg)
 
 7.
-![image](http://i1.fuimg.com/717460/b595a6a3213b5074.jpg)
+![image](./7.jpg)
 
 8.
-![image](http://i1.fuimg.com/717460/f770b0a7b4a59831.jpg)
+![image](./8.jpg)
 
 9.
-![image](http://i1.fuimg.com/717460/fed49d5ec293f771.jpg)
+![image](./9.jpg)
 
 10.
-![image](http://i1.fuimg.com/717460/121f2a1d41723dca.jpg)
+![image](./10.jpg)
 
 
 设置完这些步骤后你就会在`vue-github`的目录下发现`.eslintrc.js`文件就自动生成了，这样`vscode`中配置`eslint`语法高亮提示就完成了。
